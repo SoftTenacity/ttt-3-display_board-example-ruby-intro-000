@@ -2,7 +2,9 @@
 def display_board
   value_row = "   |   |   "
   line_row = "-----------"
-  3.times { puts value_row }
+  3.times { puts value_row 
+    puts line_row
+  }
   
 end
 display_board
