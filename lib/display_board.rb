@@ -6,8 +6,7 @@ def display_board
   puts line_row
   puts value_row 
   puts line_row
-  puts value_row 
-  puts line_row
+  puts value_row
   
 end
 display_board
